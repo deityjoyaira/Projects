@@ -1,2 +1,2 @@
 # Projects
-KodeGo Bootcamp activities and projects
+KodeGo Bootcamp activities and projects.
